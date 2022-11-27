@@ -1,0 +1,12 @@
+C:\Users\shabl\source\repos\HangMan\HangMan\bin\Debug\HangMan.exe.config
+C:\Users\shabl\source\repos\HangMan\HangMan\bin\Debug\HangMan.exe
+C:\Users\shabl\source\repos\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\Users\shabl\source\repos\HangMan\HangMan\obj\Debug\HangMan.Menu.resources
+C:\Users\shabl\source\repos\HangMan\HangMan\obj\Debug\HangMan.Properties.Resources.resources
+C:\Users\shabl\source\repos\HangMan\HangMan\obj\Debug\HangMan.csproj.GenerateResource.cache
+C:\Users\shabl\source\repos\HangMan\HangMan\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
+C:\Users\shabl\source\repos\HangMan\HangMan\obj\Debug\HangMan.exe
+C:\Users\shabl\source\repos\HangMan\HangMan\obj\Debug\HangMan.pdb
+C:\Users\shabl\source\repos\HangMan\HangMan\obj\Debug\HangMan.csproj.CopyComplete
+C:\Users\shabl\source\repos\HangMan\HangMan\obj\Debug\HangMan.Settings.resources
+C:\Users\shabl\source\repos\HangMan\HangMan\obj\Debug\HangMan.Game.resources
